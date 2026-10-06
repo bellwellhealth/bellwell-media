@@ -1,7 +1,8 @@
 # Task: Follow up — Peter Kaplan (SilverStead Partners LLC)
 
 - **Status:** Open — reply drafted, awaiting send + call scheduling
-- **Created:** 2026-07-01
+- **Created:** 2026-10-06
+- **Due / reminder:** 2026-10-07 (tomorrow) — surface in daily brief
 - **Source:** LinkedIn message (received Mon, inbound to BellWell Health page)
 - **Priority:** Medium — warm inbound referral-partner opportunity
 
